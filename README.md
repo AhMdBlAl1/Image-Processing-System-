@@ -1,6 +1,25 @@
-Image Processing System
-Developed a full-featured image processing system implementing a wide range of operations for image enhancement and analysis. The system includes over 15 processing techniques such as color space conversion, brightness and contrast adjustment, and controlled noise injection.
+🚀 Image Processing System
 
-Designed and implemented multiple spatial filtering methods including averaging, median, mode, range, max, and min filters to improve image quality and reduce noise. Additionally, integrated key morphological operations and automatic thresholding techniques to enable efficient binary image segmentation and feature extraction.
+✨ Overview
+A comprehensive image processing system designed to perform advanced image enhancement, filtering, and segmentation operations. The project focuses on applying core computer vision techniques to manipulate and analyze digital images efficiently.
 
-The project demonstrates strong understanding of core image processing concepts, algorithm implementation, and practical handling of digital images.
+⚙️ Key Features
+
+🎨 Color space conversion and intensity transformations
+🔆 Brightness and contrast adjustment
+🌫️ Noise injection and handling
+🧹 Spatial filtering techniques:
+Averaging, Median, Mode
+Max, Min, Range filters
+🧩 Morphological operations for image refinement
+🎯 Automatic thresholding for binary image segmentation
+
+🧠 Technical Highlights
+
+Implemented 15+ image processing operations from scratch
+Applied fundamental concepts of filtering and feature extraction
+Enhanced image quality and reduced noise using multiple approaches
+Demonstrated practical understanding of digital image processing pipelines
+
+📌 Outcome
+Successfully built a modular and scalable system capable of improving image quality and extracting meaningful features, showcasing strong problem-solving and algorithmic skills in computer vision.
